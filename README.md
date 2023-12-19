@@ -1,5 +1,5 @@
 # FH4 car IDs
-The full list as [CSV](FH4%20car%20IDs.csv) of FH4 cars and their IDs from
+The full list as [CSV of FH4 cars and their IDs](FH4%20car%20IDs.csv) from
 ```
 Forza Horizon 4\media\audio\cars\CarEventMapping.xml
 ```
